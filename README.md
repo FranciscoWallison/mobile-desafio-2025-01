@@ -57,12 +57,17 @@ Criar um aplicativo mobile completo usando **React Native**, com backend (API ex
 
 ---
 
-### 🗂 **Sugestão de projetos**
+### 🗂 **Sugestão de projetos API's**
 💥 𝐅𝐚𝐤𝐞 𝐒𝐭𝐨𝐫𝐞 𝐀𝐏𝐈 🔗 https://fakestoreapi.com/
+
 💥 𝐖𝐨𝐫𝐝𝐬 𝐀𝐏𝐈 🔗 https://www.wordsapi.com/
+
 💥 𝐑𝐚𝐧𝐝𝐨𝐦 𝐔𝐬𝐞𝐫 𝐃𝐚𝐭𝐚 🔗 https://randomuser.me/
+
 💥 𝐃𝐮𝐦𝐦𝐲 𝐀𝐏𝐈 🔗 https://dummyapi.io/
+
 💥 𝐒𝐞𝐣𝐝𝐚 🔗 https://www.sejda.com/
+
 
 ---
 
